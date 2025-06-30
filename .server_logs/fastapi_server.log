@@ -1,0 +1,18 @@
+/home/kavia/workspace/code-generation/taskflow-95724-b6404a85/task_manager_backend/venv/lib/python3.12/site-packages/pydantic/_internal/_config.py:373: UserWarning: Valid config keys have changed in V2:
+* 'orm_mode' has been renamed to 'from_attributes'
+  warnings.warn(message, UserWarning)
+INFO:     Started server process [2320]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+INFO:     100.64.4.167:59046 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59054 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59066 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59082 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59096 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59108 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59110 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59116 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59124 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:59140 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:58386 - "GET / HTTP/1.1" 200 OK
